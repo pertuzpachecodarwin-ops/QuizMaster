@@ -1,0 +1,15 @@
+# Entorno virtual
+.venv/
+
+# Archivos generados por Python
+__pycache__/
+*.pyc
+
+# Configuración de Visual Studio Code
+.vscode/
+
+# Variables de entorno
+.env
+
+# Récords personales del jugador
+records.json
